@@ -1,0 +1,404 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Arimo&family=Bungee+Spice&family=Comfortaa:wght@300&family=EB+Garamond:wght@500&family=Lato:ital,wght@1,700&family=Libre+Baskerville:wght@400;700&family=Montserrat:wght@500&family=Nanum+Gothic:wght@800&family=Oswald:wght@700&family=Roboto&display=swap');
+
+html {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    color: #545454;
+}
+.main{
+    background-image: url(https://preview.codeless.co/kafe/default/wp-content/uploads/2022/06/BG.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 750px; 
+    position: absolute;
+    top: 0px;
+    left: 0px; 
+}
+
+
+
+#pic1{
+    width: 430px;
+    height: 350px;
+    position:absolute;
+    left: 920px;
+    top: 220px;
+}
+.c1{
+    padding-left: 350px;
+}
+.booknow{
+    padding: 20px;
+    width: 170px;
+    background-color: #b98d58;
+    color: white;
+    border: 1px solid #b98d58;
+    margin-left: 155px;
+    margin-top: 50px;
+    font-size: 16px;
+}
+.booknow:hover{
+    background-color: transparent;
+    color: #b98d58;
+}
+.logo{
+    margin-left: -800px;
+    font-size: large;
+}
+
+.dnow{
+    padding: 20px;
+    width: 170px;
+    background-color: transparent;
+    color: #b98d58;
+    border: 1px solid #b98d58;
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 16px;
+}
+.dnow:hover{
+    background-color: #b98d58;
+    color: white;
+}
+.mainp1{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 58px;
+    margin-top: 180px;
+    margin-left: 150px;
+    color: #111;
+}
+.mainp2{
+    font-size: 16px;
+    margin-top: -40px;
+    margin-left: 155px;
+    color: rgb(114, 113, 88);
+    font-family: 'Montserrat', sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    padding-left: 33%;
+    padding-top: 20px;
+  }
+  
+  li {
+    float:left;
+
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  
+
+#second{
+    margin-top: 850px;
+}
+.p3{
+    text-align: center;
+    display: block;
+    color:#b98d58;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 21px;
+    font-family: 'Arimo', sans-serif;
+
+}
+.p4{
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+    display: block;
+    font-size: 48px;
+    font-weight: 400;
+    margin-bottom: 21px;
+}
+.under{
+    margin-left: 660px;
+}
+.leaf{
+    margin-top: -52px;
+    margin-left: 80px;
+}
+.cof1{
+    position: absolute;
+    left: 240px;
+    top: 1380px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cof2{
+    position: absolute;
+    left: 389px;
+    top: 1200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#cont{
+    width: 450px;
+    height: 480px;
+    /* color: white;
+    background-color: black; */
+    margin-left: 900px;
+    margin-top: -398px;
+
+}
+.p5{
+    font-size: 30px;
+    font-family: 'EB Garamond', serif;
+}
+.p6{
+    font-family: 'Arimo', sans-serif;
+    font-size: 17px;
+    padding-left: 5px;
+}
+.visitus{
+    padding: 20px;
+    width: 170px;
+    background-color: #b98d58;
+    color: white;
+    border: 1px solid #b98d58;
+    margin-top: 50px;
+    font-size: 16px;
+    margin-left: 5px;
+}
+.visitus:hover{
+    background-color: transparent;
+    color: #b98d58;
+}
+#third{
+    background-image: url("https://preview.codeless.co/kafe/default/wp-content/uploads/2022/06/BG.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 950px; 
+    position: absolute;
+    top: 1850px;
+    left: 0px; 
+}
+.p7{
+    margin-top: 100px;
+}
+.product{
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 320px;
+}
+.product-1{
+    margin-left: 180px;
+}
+.salebtn{
+    background-color: rgb(42, 202, 42);
+    border: none;
+    color: white;
+    padding: 10px;
+    width: 80px;
+    position: absolute;
+    right: 605px;
+    top: 400px;
+}
+.pname-1{
+    color: black;
+    margin-left: 290px;
+    font-family: 'Comfortaa', cursive;
+}
+.pname-2{
+    color: black;
+    margin-top: -46.5px;
+    margin-left: 720px;
+    font-family: 'Comfortaa', cursive;
+}
+.pname-3{
+    color: black;
+    margin-top: -46.5px;
+    margin-left: 1140px;
+    font-family: 'Comfortaa', cursive;
+}
+.price-1{
+    color: black;
+    margin-left: 320px;
+    font-family: 'EB Garamond', serif;
+}
+.price-2{
+    color: black;
+    margin-top: -46.5px;
+    margin-left: 750px;
+    font-family: 'EB Garamond', serif;
+}
+.price-3{
+    color: black;
+    margin-top: -46.5px;
+    margin-left: 1180px;
+    font-family: 'EB Garamond', serif;
+}
+#forth{
+    background-image: url("https://preview.codeless.co/kafe/default/wp-content/uploads/2022/06/bg7.jpg");
+    width: 1522px;
+    height: 900px; 
+    position: relative;
+    top: 1050px;
+    left: -11px; 
+    background-repeat: no-repeat;
+}
+.heading-1{
+    color: black;
+    font-family: 'Libre Baskerville', serif;
+    position: absolute;
+    top: 100px;
+    left: 500px; 
+    font-weight: lighter;
+    font-size: 40px;
+    font-family: 'EB Garamond', serif;
+}
+.cof{
+    width: 361.3px;
+    height: 276px;
+    position: absolute;
+    top: 300px;
+    border: #363636 1px solid;
+}
+.cof-1{
+    left: 150px;
+}
+.cof-2{
+    left: 575px;
+}
+.cof-3{
+    left: 1000px;
+}
+.features{
+    text-align: center;
+    margin-top: 70px;
+    font-family: 'EB Garamond', serif;
+}
+.f-1{
+    margin-left: 50px;
+    font-family: 'EB Garamond', serif;
+}
+.cof:hover{
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.services{
+    padding: 20px;
+    width: 170px;
+    background-color: #b98d58;
+    color: white;
+    border: 1px solid #b98d58;
+    position: absolute;
+    font-size: 14px;
+    top: 730px;
+    left: 675px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+#fifth{
+    background-image: url("https://preview.codeless.co/kafe/default/wp-content/uploads/2022/06/BG.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1521px;
+    height: 920px; 
+    margin-top: 1100px;
+    margin-left: -10px;
+    font-family: 'EB Garamond', serif;
+}
+.h1main{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    position: relative;
+    top: 120px;
+}
+.underline{
+    margin-top: 120px;
+    margin-left: 660px;
+}
+.coffee-3{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.coffee-1{
+    margin-left: 185px;
+}
+.lo{
+    margin-left: 270px;
+}
+.lo-1{
+    margin-top: -40px;
+    margin-left: 665px;
+}
+.lo-2{
+    margin-top: -40px;
+    margin-left: 1085px;
+}
+#cnt{
+    /* background-color: black; */
+    width: 500px;
+    height: 600px;
+    margin-left: 100px;
+    margin-top: -10px;
+    font-family: 'EB Garamond', serif;
+}
+.cnth1{
+    margin-top: 120px;
+    text-align: center;
+    font-size: 80px;
+    color: black;
+}
+.f{
+    border: #b98d58 1px solid;
+    border-radius: 30px;
+    height: 50px;
+    width: 490px;
+    font-size: large;
+    text-align: center;
+    margin-top: 30px;
+}
+.name{
+    margin-top: 70px;
+}
+.cntsub{
+    height: 50px;
+    width: 170px;
+    font-size: large;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 165px;
+    color: white;
+    background-color: #b98d58;
+    border: none;
+}
+.bord{
+    border: 1px solid #b98d58;
+    width: 700px;
+    height: 430px;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.underli{
+    margin-left:670px;
+}
+.footer{
+    margin-left: -12px;
+    margin-top: 200px;
+    background-color: #2b1a14;
+    width: 1522px;
+    height: 100px;
+    text-align: center;
+}
+
+.last{
+    color: white;
+    position: relative;
+    top: 35px;
+}
